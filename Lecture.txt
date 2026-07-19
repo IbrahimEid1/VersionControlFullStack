@@ -18,3 +18,4 @@ git log == show all commits with #IDS / git log --oneline
 =====================================================================================
 git reset =  in staging Area == back to working Directory
 ============================================================
+git commit --amend  = Edit to last commit 
