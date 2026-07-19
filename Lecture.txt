@@ -12,4 +12,4 @@ move to staging
  =================================================
  git save commits in DB == #ID 
 =====================================================================================
-git add . + git commit -m "," = git commit -am "," 
+git add . + git commit -m "," =       git commit -am "," 
