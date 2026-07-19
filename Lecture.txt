@@ -1,7 +1,7 @@
 git init  ===>  initialization 
 
 working Directory                    Staging Area                    Local DB 
-create index.html                     (Tracked)
+create index.html                     (Tracked)                     ( Data Saved )
 style.css
 lecture.txt                         git commit -m ","
 
@@ -9,7 +9,12 @@ git add .
 (untracked)
 move to staging
  area = git add .
- =================================================
+ ====================================================================================
  git save commits in DB == #ID 
 =====================================================================================
 git add . + git commit -m "," =       git commit -am "," 
+=====================================================================================
+git log == show all commits with #IDS 
+=====================================================================================
+git reset =  in staging Area == back to working Directory
+
