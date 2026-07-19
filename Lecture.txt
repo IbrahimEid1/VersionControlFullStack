@@ -1,0 +1,10 @@
+git init  ===>  initialization 
+
+working Directory                    Staging Area                    Local DB 
+create index.html                     (Tracked)
+style.css
+lecture.txt  
+
+git add . 
+(untracked)
+move to staging area = git add .
