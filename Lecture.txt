@@ -20,3 +20,4 @@ git reset =  in staging Area == back to working Directory
 =====================================================================================
 git commit --amend  = Edit to last commit 
 =====================================================================================
+git branch "name Branch"
